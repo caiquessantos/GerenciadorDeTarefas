@@ -2,6 +2,13 @@
   padding: 2em;
 }
 
+div {
+  margin: auto;
+  text-align: center;
+}
+
 a {
   font-size: 3em;
+  color: black;
+  font-weight: bolder;
 }
